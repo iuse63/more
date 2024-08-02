@@ -1,4 +1,4 @@
-# zhibo
+# 自用多仓地址，请勿使用。
 # 自用直播源
 # 香港加速
 <br> https://raw.kkgithub.com/iuse63/more/main/多仓c.json
