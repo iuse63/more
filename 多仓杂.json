@@ -1,0 +1,26 @@
+{
+"urls":[
+{"name":"电视","url":"https://ghcy.eu.org/https://raw.githubusercontent.com/iuse63/mybox/main/电视.json"},
+{"name":"网站","url":"https://ghcy.eu.org/https://raw.githubusercontent.com/iuse63/mybox/main/网站.json"},
+{"name":"自用","url":"https://ghcy.eu.org/https://raw.githubusercontent.com/iuse63/mybox/main/自用.json"},
+{"name":"dokiss","url":"https://ghcy.eu.org/https://raw.githubusercontent.com/iuse63/dokiss1/master/doki-E.json"},
+{"name":"TVH","url":"  https://ghcy.eu.org/https://raw.githubusercontent.com/iuse63/otherbox/main/TVH.json"},
+{"name":"dokissYu","url":"https://ghcy.eu.org/https://raw.githubusercontent.com/iuse63/dokiss0625/master/Yu.json"},
+{"name":"潇洒TVBox","url":"https://ghcy.eu.org/https://raw.githubusercontent.com/PizazzGY/TVBox/main/api.json"},
+{"name":"潇洒影视","url":"https://github.ednovas.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/影视/api.json"},
+{"name":"潇洒动漫","url":"https://github.ednovas.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/动漫/api.json"},
+{"name":"潇洒文艺","url":"https://github.ednovas.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/文艺/api.json"},
+{"name":"潇洒体育","url":"https://github.ednovas.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/体育/api.json"},
+{"name":"潇洒教育","url":"https://github.ednovas.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/教育/api.json"},
+{"name":"潇洒直播","url":"https://github.ednovas.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/直播/api.json"},
+{"name":"潇洒磁力","url":"https://github.ednovas.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/磁力/api.json"},
+{"name":"潇洒云盘","url":"https://github.ednovas.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/云盘/api.json"},
+{"name":"dokiss+","url":"https://ghcy.eu.org/https://raw.githubusercontent.com/iuse63/dokiss0625/master/doki-18+.json"},
+{"name":"dokiss19","url":"https://ghcy.eu.org/https://raw.githubusercontent.com/iuse63/dokiss0625/master/doki-19+.json"},
+{"name":"doki-Dx","url":"https://ghcy.eu.org/https://raw.githubusercontent.com/iuse63/dokiss0625/master/doki-Dx.json"},
+{"name":"doki-Gn","url":"https://ghcy.eu.org/https://raw.githubusercontent.com/iuse63/dokiss0625/master/doki-Gn.json"},
+{"name":"doki-Ig","url":"https://ghcy.eu.org/https://raw.githubusercontent.com/iuse63/dokiss0625/master/doki-Ig.json"},
+{"name":"doki-Jf","url":"https://ghcy.eu.org/https://raw.githubusercontent.com/iuse63/dokiss0625/master/doki-Jf.json"},
+{"name":"jav","url":"https://ghcy.eu.org/https://raw.githubusercontent.com/iuse63/otherbox/main/jav.json"},
+{"name":"测试","url":"https://ghcy.eu.org/https://raw.githubusercontent.com/iuse63/mybox/main/test.json"}
+]}
