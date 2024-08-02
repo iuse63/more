@@ -1,8 +1,10 @@
 # zhibo
 # 自用直播源
-# 香港github
-# https://raw.kkgithub.com/iuse63/more/main/多仓c.json
-# https://raw.kkgithub.com/iuse63/more/main/多仓s.json
-# https://raw.kkgithub.com/iuse63/more/main/多仓杂.json
-
-
+# 香港加速
+<br> https://raw.kkgithub.com/iuse63/more/main/多仓c.json
+<br> https://raw.kkgithub.com/iuse63/more/main/多仓s.json
+<br> https://raw.kkgithub.com/iuse63/more/main/多仓杂.json
+# ghcy加速
+<br> https://ghcy.eu.org/https://raw.githubusercontent.com/iuse63/more/main/多仓c.json
+<br> https://ghcy.eu.org/https://raw.githubusercontent.com/iuse63/more/main/多仓s.json
+<br> https://ghcy.eu.org/https://raw.githubusercontent.com/iuse63/more/main/多仓杂.json
