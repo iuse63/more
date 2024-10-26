@@ -15,5 +15,5 @@
 <br> https://ghcy.eu.org/https://raw.githubusercontent.com/iuse63/more/main/dokiss.json
 
 #gitee自用多仓地址
-<br> https://gitee.com/iuse63/more/raw/master/more.json
-<br> https://gitee.com/iuse63/more/raw/master/dokiss.json
+<br> https://gitee.com/iuse63/more/raw/main/more.json
+<br> https://gitee.com/iuse63/more/raw/main/dokiss.json
