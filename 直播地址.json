@@ -1,0 +1,9 @@
+{
+"wallpaper":"https://tv.nxog.top/m//t/","logo":"https://tv.nxog.top/m//LOGO2.gif",
+"spider":"https://tv.nxog.top/m/jar.php?id=ou&ou=公众号欧歌app;md5;119acfe3682bc8197f8865af36a13540",
+"warningText":"本接口仅直播源",
+"lives":[
+{"name":"tv","type":0,"url":"https://tv.nxog.top/m//tv/","playerType":1,"ua": "okhttp/3.12.13","logo": "https://live.fanmingming.com/tv/{name}.png"},
+{"name":"tv","type":0,"url":"https://gitee.com/iuse63/more/raw/main/直播.txt","playerType":1,"ua": "okhttp/3.12.13","logo": "https://live.fanmingming.com/tv/{name}.png"},
+{"name":"IPV4V6","type":0,"url":"https://tv.nxog.top/m//tv/1/","playerType":1,"ua": "okhttp/3.12.13","logo": "https://live.fanmingming.com/tv/{name}.png"}]
+ }
