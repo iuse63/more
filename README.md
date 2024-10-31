@@ -12,7 +12,7 @@
 <br> https://ghcy.eu.org/https://raw.githubusercontent.com/iuse63/more/main/dokiss.json
 <br> https://ghcy.eu.org/https://raw.githubusercontent.com/iuse63/more/main/many.json
 
-#gitee自用多仓地址
+# gitee自用多仓地址
 <br> https://gitee.com/iuse63/more/raw/main/more.json
 <br> https://gitee.com/iuse63/more/raw/main/dokiss.json
 <br> https://gitee.com/iuse63/more/raw/main/many.json
