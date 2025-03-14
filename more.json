@@ -1,12 +1,9 @@
-{"urls":[
-{"name":"王二接口","url":"http://tvbox.王二小放牛娃.top"},
-{"name":"饭  太 硬","url":"http://www.饭太硬.com/tv"},
-{"name":"圥忈接口","url":"https://ghcy.eu.org/https://raw.githubusercontent.com/iuse63/dokiss/master/doki.json"},
-{"name":"橙子接口","url":"https://ghcy.eu.org/https://raw.githubusercontent.com/wzxxcz/xcz/master/xcz.json"},
-{"name":"纯一接口","url":"https://100km.top/0"},
-{"name":"巧技接口","url":"http://cdn.qiaoji8.com/tvbox.json"},
-{"name":"肥猫接口","url":"http://肥猫.com"},
-{"name":"老猫接口","url":"https://d.n13.club/"},
-{"name":"无界接口","url":"https://www.xn--rgv465a.top/无界线路Pro版"},
+{
+"urls":[
+{"url":"http://tvbox.王二小放牛娃.top","name":"王二接口"},
+{"url":"http://www.饭太硬.com/tv","name":"饭太硬"},
+{"url":"https://ghcy.eu.org/https://raw.githubusercontent.com/iuse63/dokiss/master/doki.json","name":"圥忈接口"},
+{"url":"https://ghcy.eu.org/https://raw.githubusercontent.com/wzxxcz/xcz/master/xcz.json","name":"橙子接口"},
+{"url":"https://xn--0ss0-rp5imh.v.nxog.top/m/111.php?ou=公众号欧歌app&mz=index&jar=index&123&b=0s欧歌s0","name":"欧歌家庭"}
 ]
 }
