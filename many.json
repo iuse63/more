@@ -1,11 +1,16 @@
-{"urls":[
-{"name":"展昭接口","url":"https://gitee.com/zhan-zhaobb/MVP/raw/master/Svip.json"},
-
-{"name":"网站接口","url":"https://ghcy.eu.org/https://raw.githubusercontent.com/iuse63/mybox/main/%E7%BD%91%E7%AB%99.json"},
-{"name":"自用接口","url":"https://ghcy.eu.org/https://raw.githubusercontent.com/iuse63/mybox/main/%E8%87%AA%E7%94%A8.json"},
-{"name":"jav  接口","url":"https://ghcy.eu.org/https://raw.githubusercontent.com/iuse63/otherbox/main/jav.json"},
-{"name":"meow  接口","url":"https://ghcy.eu.org/https://raw.githubusercontent.com/YuanHsing/freed/master/TVBox/meow.json"},
-
-{"name":"TVS 接口","url":"https://ghcy.eu.org/https://raw.githubusercontent.com/iuse63/otherbox/main/TVS%E6%8E%A5%E5%8F%A3.json"}
+{
+"urls":[
+{"url":"http://tvbox.王二小放牛娃.top","name":"王二接口"},
+{"url":"http://www.饭太硬.com/tv","name":"饭太硬"},
+{"url":"https://ghcy.eu.org/https://raw.githubusercontent.com/iuse63/dokiss/master/doki.json","name":"圥忈接口"},
+{"url":"https://ghcy.eu.org/https://raw.githubusercontent.com/wzxxcz/xcz/master/xcz.json","name":"橙子接口"},
+{"url":"http://ok321.top/tv","name":"OK接口"},
+{"url":"https://xn--0ss0-rp5imh.v.nxog.top/m/111.php?ou=公众号欧歌app&mz=index&jar=index&123&b=0s欧歌s0","name":"欧歌家庭"},
+{"url":"https://gitee.com/zhan-zhaobb/MVP/raw/master/Svip.json","name":"展昭接口"},
+{"url":"https://ghcy.eu.org/https://raw.githubusercontent.com/iuse63/mybox/main/%E7%BD%91%E7%AB%99.json","name":"网站接口"},
+{"url":"https://ghcy.eu.org/https://raw.githubusercontent.com/iuse63/dokiss/master/doki.json","name":"自用接口"},
+{"url":"https://ghcy.eu.org/https://raw.githubusercontent.com/iuse63/otherbox/main/jav.json","name":"jav接口"},
+{"url":"https://ghcy.eu.org/https://raw.githubusercontent.com/YuanHsing/freed/master/TVBox/meow.json","name":"meow接口"},
+{"url":"https://ghcy.eu.org/https://raw.githubusercontent.com/iuse63/otherbox/main/TVS%E6%8E%A5%E5%8F%A3.json","name":"TVS 接口"}
 ]
 }
