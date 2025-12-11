@@ -1,9 +1,10 @@
 {
-"urls":[
-{"url":"http://tvbox.xn--4kq62z5rby2qupq9ub.top/","name":"王二接口"},
-{"url":"http://www.xn--sss604efuw.net/tv","name":"饭太硬"},
-{"url":"https://tvbox.catvod.com/catvod.json","name":"Catvod"},
-{"url":"https://gitee.com/yiwu369/6758/raw/master/2025.json","name":"青龙"},
-{"url":"https://iptvindex.com/db.json","name":"iptvindex"}
+"storeHouse": 
+[ 
+{"sourceName":"iptvindex","sourceUrl":"https://iptvindex.com/db.json"},
+{"sourceName":"青龙多仓","sourceUrl":"https://gitee.com/yiwu369/6758/raw/master/2025.json"},
+{"sourceName":"麒麟多仓","sourceUrl":"https://gitee.com/qlysgzs/qlys/raw/master/qlycZHCK.json"},
+{"sourceName":"自用多仓1","sourceUrl":"https://gitee.com/iuse63/more/raw/main/more2.json"},
+{"sourceName":"自用多仓","sourceUrl":"https://gitee.com/iuse63/more/raw/main/more.json"}
 ]
 }
