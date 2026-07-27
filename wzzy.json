@@ -30,7 +30,26 @@
 {"key":"OK资源","name":"OK资源","type":1,"api":"http://api.okzyw.net/api.php/provide/vod","searchable":"1","quickSearch":"1","filterable":"0"},
 {"key":"快车资源","name":"快车资源","type":1,"api":"https://caiji.kuaichezy.org/api.php/provide/vod/at/xml/","searchable":"1","quickSearch":"1","filterable":"0"},
 
-{"key":"应用下载","name":"🔽软件下载","type":3,"api":"csp_Market","searchable":0,"changeable":0,"ext":"./json/应用商店.json","jar":"./jar/fm商店.jar"}
+{"key":"魔都资源","name":"魔都资源","type":1,"api":"https://www.mdzyapi.com/api.php/provide/vod/?ac=list","searchable":"1","quickSearch":"1","filterable":"0"},
+{"key":"茅台资源","name":"茅台资源","type":1,"api":"https://caiji.maotai999.vip/api.php/provide/vod/from/mtm3u8/at/josn/","searchable":"1","quickSearch":"1","filterable":"0"},
+{"key":"优质资源","name":"优质资源","type":1,"api":"https://api.yyzy-tv.vip/inc/api_mac10.php","searchable":"1","quickSearch":"1","filterable":"0"},
+{"key":"樱花资源","name":"樱花资源","type":1,"api":"https://m3u8.apiyhzy.com/api.php/seacms/vod/at/xml/?ac=list","searchable":"1","quickSearch":"1","filterable":"0"},
+{"key":"极速资源","name":"极速资源","type":1,"api":"https://jszyapi.com/api.php/provide/vod","searchable":"1","quickSearch":"1","filterable":"0"},
+{"key":"速播资源","name":"速播资源","type":1,"api":"https://subocj.com/api.php/provide/vod","searchable":"1","quickSearch":"1","filterable":"0"},
+{"key":"百度资源","name":"百度资源","type":1,"api":"https://api.apibdzy.com/api.php/provide/vod/?ac=list","searchable":"1","quickSearch":"1","filterable":"0"},
+{"key":"U酷资源","name":"U酷资源","type":1,"api":"https://api.ukuapi88.com/api.php/provide/vod/?ac=list","searchable":"1","quickSearch":"1","filterable":"0"},
+{"key":"无水印资源","name":"无水印资源","type":1,"api":"https://api.wsyzy.net/api.php/provide/vod/?ac=list","searchable":"1","quickSearch":"1","filterable":"0"},
+{"key":"98资源","name":"98资源","type":1,"api":"https://98zy.vip/api.php/provide/vod/at/json/","searchable":"1","quickSearch":"1","filterable":"0"},
+{"key":"西瓜资源","name":"西瓜资源","type":1,"api":"https://caiji.xgzyapi.com/api.php/provide/vod/at/xml/","searchable":"1","quickSearch":"1","filterable":"0"},
+{"key":"360资源","name":"360资源","type":1,"api":"https://360zyzz.com/api.php/provide/vod","searchable":"1","quickSearch":"1","filterable":"0"},
+{"key":"天堂资源","name":"天堂资源","type":1,"api":"https://caiji.dyttzyapi.com/api.php/provide/vod/at/xml/","searchable":"1","quickSearch":"1","filterable":"0"},
+{"key":"人人资源","name":"人人资源","type":1,"api":"http://43.139.196.163:31308/gather/json","searchable":"1","quickSearch":"1","filterable":"0"},
+{"key":"豪华资源","name":"豪华资源","type":1,"api":"https://hhzyapi.com/api.php/provide/vod","searchable":"1","quickSearch":"1","filterable":"0"},
+{"key":"鸭鸭资源","name":"鸭鸭资源","type":1,"api":"https://cj.yayazy.net/api.php/provide/vod/?ac=list","searchable":"1","quickSearch":"1","filterable":"0"},
+{"key":"爱奇艺资源","name":"爱奇艺资源","type":1,"api":"https://iqiyizyapi.com/api.php/provide/vod","searchable":"1","quickSearch":"1","filterable":"0"},
+{"key":"如意资源","name":"如意资源","type":1,"api":"https://cj.rycjapi.com/api.php/provide/vod/?ac=list","searchable":"1","quickSearch":"1","filterable":"0"},
+{"key":"最大资源","name":"最大资源","type":1,"api":"https://api.zuidapi.com/api.php/provide/vod/from/zuidam3u8/at/xml/","searchable":"1","quickSearch":"1","filterable":"0"}
+
 ],
 //直播模块
 /*"lives":[
